@@ -1,0 +1,16 @@
+{
+  "name": "gorvey-plugins",
+  "description": "gorvey's claude plugin  project",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "gorvey"
+  },
+  "commands": [
+    "./commands/apply.md",
+    "./commands/plan.md",
+    "./commands/fe-init-vue3.md",
+    "./commands/gen-api-code.md"
+  ],
+  "agents": ["./agents/fe-init-agent.md"]
+}

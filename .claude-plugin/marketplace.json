@@ -1,0 +1,15 @@
+{
+  "name": "gorvey-marketplace",
+  "metadata": {
+    "version": "1.0.0"
+  },
+  "owner": {
+    "name": "gorvey"
+  },
+  "plugins": [
+    {
+      "name": "my-plugin",
+      "source": "./my-plugin"
+    }
+  ]
+}
