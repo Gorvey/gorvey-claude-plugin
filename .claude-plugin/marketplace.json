@@ -1,6 +1,7 @@
 {
   "name": "gorvey-marketplace",
   "metadata": {
+    "description": "gorvey's claude plugin marketplace",
     "version": "1.0.0"
   },
   "owner": {
@@ -9,6 +10,7 @@
   "plugins": [
     {
       "name": "my-plugin",
+      "description": "gorvey's claude plugin marketplace",
       "source": "./my-plugin"
     }
   ]
