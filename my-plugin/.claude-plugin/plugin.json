@@ -7,12 +7,8 @@
     "name": "gorvey"
   },
   "commands": [
-    // "./commands/apply.md",
-    // "./commands/plan.md",
-    // "./commands/fe-init-vue3.md",
     "./commands/gen-ts-api-code.md",
     "./commands/gen-js-api-code.md",
     "./commands/jsd-auto-lint.md"
   ]
-  // "agents": ["./agents/fe-init-agent.md"]
 }
