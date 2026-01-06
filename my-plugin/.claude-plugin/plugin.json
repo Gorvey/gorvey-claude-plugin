@@ -1,10 +1,10 @@
 {
-  "name": "gorvey-plugins",
+  "name": "gorvey-using-plugins",
   "description": "gorvey's claude plugin  project",
   "version": "1.0.0",
   "license": "MIT",
   "author": {
-    "name": "gorvey-using"
+    "name": "gorvey"
   },
   "commands": [
     // "./commands/apply.md",
